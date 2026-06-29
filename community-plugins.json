@@ -36335,5 +36335,12 @@
     "author": "Hyunyoung Park",
     "description": "Adds a minimap to Canvas - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "lugglory/hy-canvas-minimap"
+  },
+  {
+  "id": "txt-annotator",
+  "name": "TXT Annotator",
+  "author": "Soli",
+  "description": "Read and annotate TXT files with highlights and notes",
+  "repo": "heeeyc/obsidian-txt-annotator"
   }
 ]
